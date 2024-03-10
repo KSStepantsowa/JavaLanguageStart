@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JavaLanguageStart:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaLanguageStart_jar</output-path>
+    <root id="archive" name="JavaLanguageStart.jar">
+      <element id="module-output" name="JavaLanguageStart" />
+    </root>
+  </artifact>
+</component>
